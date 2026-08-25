@@ -1,0 +1,10 @@
+C:\Users\greis\source\repos\Pract8-EstructuraIf\bin\Debug\Pract8-EstructuraIf.exe.config
+C:\Users\greis\source\repos\Pract8-EstructuraIf\bin\Debug\Pract8-EstructuraIf.exe
+C:\Users\greis\source\repos\Pract8-EstructuraIf\bin\Debug\Pract8-EstructuraIf.pdb
+C:\Users\greis\source\repos\Pract8-EstructuraIf\obj\Debug\Pract8-EstructuraIf.csproj.AssemblyReference.cache
+C:\Users\greis\source\repos\Pract8-EstructuraIf\obj\Debug\Pract8_EstructuraIf.Form1.resources
+C:\Users\greis\source\repos\Pract8-EstructuraIf\obj\Debug\Pract8_EstructuraIf.Properties.Resources.resources
+C:\Users\greis\source\repos\Pract8-EstructuraIf\obj\Debug\Pract8-EstructuraIf.csproj.GenerateResource.cache
+C:\Users\greis\source\repos\Pract8-EstructuraIf\obj\Debug\Pract8-EstructuraIf.csproj.CoreCompileInputs.cache
+C:\Users\greis\source\repos\Pract8-EstructuraIf\obj\Debug\Pract8-EstructuraIf.exe
+C:\Users\greis\source\repos\Pract8-EstructuraIf\obj\Debug\Pract8-EstructuraIf.pdb

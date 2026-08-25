@@ -1,0 +1,10 @@
+C:\Users\greis\source\repos\Descuentos\bin\Debug\Descuentos.exe.config
+C:\Users\greis\source\repos\Descuentos\bin\Debug\Descuentos.exe
+C:\Users\greis\source\repos\Descuentos\bin\Debug\Descuentos.pdb
+C:\Users\greis\source\repos\Descuentos\obj\Debug\Descuentos.csproj.AssemblyReference.cache
+C:\Users\greis\source\repos\Descuentos\obj\Debug\Descuentos.Descuento.resources
+C:\Users\greis\source\repos\Descuentos\obj\Debug\Descuentos.Properties.Resources.resources
+C:\Users\greis\source\repos\Descuentos\obj\Debug\Descuentos.csproj.GenerateResource.cache
+C:\Users\greis\source\repos\Descuentos\obj\Debug\Descuentos.csproj.CoreCompileInputs.cache
+C:\Users\greis\source\repos\Descuentos\obj\Debug\Descuentos.exe
+C:\Users\greis\source\repos\Descuentos\obj\Debug\Descuentos.pdb

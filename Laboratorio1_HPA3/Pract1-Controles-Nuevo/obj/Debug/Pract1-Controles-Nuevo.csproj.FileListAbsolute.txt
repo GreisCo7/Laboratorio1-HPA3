@@ -1,0 +1,10 @@
+C:\Users\greis\source\repos\Pract1-Controles-Nuevo\bin\Debug\Pract1-Controles-Nuevo.exe.config
+C:\Users\greis\source\repos\Pract1-Controles-Nuevo\bin\Debug\Pract1-Controles-Nuevo.exe
+C:\Users\greis\source\repos\Pract1-Controles-Nuevo\bin\Debug\Pract1-Controles-Nuevo.pdb
+C:\Users\greis\source\repos\Pract1-Controles-Nuevo\obj\Debug\Pract1-Controles-Nuevo.csproj.AssemblyReference.cache
+C:\Users\greis\source\repos\Pract1-Controles-Nuevo\obj\Debug\Pract1_Controles_Nuevo.Form1.resources
+C:\Users\greis\source\repos\Pract1-Controles-Nuevo\obj\Debug\Pract1_Controles_Nuevo.Properties.Resources.resources
+C:\Users\greis\source\repos\Pract1-Controles-Nuevo\obj\Debug\Pract1-Controles-Nuevo.csproj.GenerateResource.cache
+C:\Users\greis\source\repos\Pract1-Controles-Nuevo\obj\Debug\Pract1-Controles-Nuevo.csproj.CoreCompileInputs.cache
+C:\Users\greis\source\repos\Pract1-Controles-Nuevo\obj\Debug\Pract1-Controles-Nuevo.exe
+C:\Users\greis\source\repos\Pract1-Controles-Nuevo\obj\Debug\Pract1-Controles-Nuevo.pdb
